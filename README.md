@@ -39,10 +39,6 @@ https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoC
 https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
   </a>
   
-  <a href="">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  </a>
-  
 </p>
 
 
