@@ -43,20 +43,16 @@ https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&log
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   </a>
   
-  <a href="">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
-  
 </p>
 
 
 <!-- Title and Logo -->
 
 <div align="center">
-  <a href="https://www.dukanchalao.com/">
+<!--   <a href="https://www.dukanchalao.com/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
+ -->
   <h3 align="center">Dukan Chalao</h3>
 
   <p align="center">
@@ -66,7 +62,7 @@ https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&log
 
 <!-- About -->
 ## About The Project
-It is a `full-stack` `cross-platform` inventory management and billing system.
+It is a full-stack cross-platform inventory management and billing system.
 The main purpose of this project is to help small to medium-sized retailers digitally manage their shop's inventory, since this will reduce the situation of out-of-stock problems, which is generally seen in the retail shops and allow retailers in effective business planning.
 
 #### Key features on the way:
@@ -78,7 +74,7 @@ The main purpose of this project is to help small to medium-sized retailers digi
 
 
 <!-- System Design Document -->
-## [Link to `System Design Document`](https://youtu.be/tf4E0Pbd0d8)
+## Link to [`Prototype`](https://drive.google.com/file/d/1qkmhhUOM9ygauhTc2YMTUYn0db58ilwq/view) | [`System Design Document`](https://docs.google.com/document/d/1WoDAvB-TPkfjj2T30ebmV9BaSVzUV-ADsm16v8EmAPw/edit) | [`DB Design`](https://docs.google.com/document/d/1qmec-ZYrg5C3k0VFF8CRTsQEXBm2Ui8B1kDMF_ezCYY/edit)
 
 <!-- Code -->
 ## Code
