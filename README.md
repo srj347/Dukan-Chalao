@@ -49,7 +49,7 @@ https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&log
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-  <h3 align="center">Dukan Chalao</h3>
+  <h3 align="center">www.dukanchalao.com</h3>
 
   <p align="center">
     Inventory Management and Billing System
